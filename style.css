@@ -612,7 +612,7 @@ ul {
 .about {
   position: relative;
   height: 100vh;
-  background-image: url(/PROJECTS/portfolio/assets/bg2.png);
+  background-image: url(assets/bg2.png);
   background-size: cover;
   z-index: 2;
   overflow: hidden;
@@ -794,7 +794,7 @@ ul {
 .achv {
   position: relative;
   height: 100vh;
-  background-image: url(/PROJECTS/portfolio/assets/bg2.png);
+  background-image: url(assets/bg2.png);
   background-size: cover;
   z-index: 2;
   overflow: hidden;
@@ -1047,7 +1047,7 @@ ul {
 .skills {
   position: relative;
   height: 100vh;
-  background-image: url(/PROJECTS/portfolio/assets/bg2.png);
+  background-image: url(assets/bg2.png);
   background-size: cover;
   z-index: 2;
   overflow: hidden;
@@ -1487,7 +1487,7 @@ ul {
 .proj {
   position: relative;
   height: 100vh;
-  background-image: url(/PROJECTS/portfolio/assets/bg2.png);
+  background-image: url(assets/bg2.png);
   background-size: cover;
   z-index: 2;
   overflow: hidden;
@@ -1830,7 +1830,7 @@ a {
 .footer {
   position: relative;
   height: 70vh;
-  background-image: url(/PROJECTS/portfolio/assets/bg2.png);
+  background-image: url(assets/bg2.png);
   background-size: cover;
   z-index: 2;
   overflow: hidden;
