@@ -1,0 +1,8 @@
+#b92e35
+#03122f
+
+
+font-family: 'Satoshi', sans-serif;
+font-family: 'Tabular', sans-serif;
+font-family: 'Cabinet Grotesk', sans-serif; 
+
